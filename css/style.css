@@ -1,0 +1,90 @@
+body {
+  background-color: #273238;
+}
+
+h1 {
+  text-align: center;
+  color: #698593;
+  background-color: #fff;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 4.5rem;
+}
+p {
+  color: #c8c8c8;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+  line-height: 24px;
+}
+
+.aspiradoras {
+  border: 4px solid #dfbca5;
+  margin-left: 4rem;
+}
+
+.celulares {
+  border: 4px solid #b0cdd3;
+  margin-left: 4rem;
+}
+
+.consolas {
+  border: 4px solid #b1b3b4;
+  margin-left: 4rem;
+}
+
+.home-theaters {
+  border: 4px solid #6c7681;
+  margin-left: 4rem;
+}
+
+.televisores {
+  border: 4px solid #acaaa4;
+  margin-left: 4rem;
+}
+
+.titulo1 {
+  color: #dfbca5;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: italic;
+  font-weight: bolder;
+  font-size: 2rem;
+  font-variant: small-caps;
+}
+.titulo2 {
+  color: #b0cdd3;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: italic;
+  font-variant: small-caps;
+  font-weight: bolder;
+  font-size: 2rem;
+}
+.titulo3 {
+  color: #b1b3b4;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: italic;
+  font-variant: small-caps;
+  font-weight: bolder;
+  font-size: 2rem;
+}
+.titulo4 {
+  color: #6c7681;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: italic;
+  font-variant: small-caps;
+  font-weight: bolder;
+  font-size: 2rem;
+}
+.titulo5 {
+  color: #acaaa4;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: italic;
+  font-variant: small-caps;
+  font-weight: bolder;
+  font-size: 2rem;
+}
